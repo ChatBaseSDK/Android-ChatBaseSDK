@@ -1,2 +1,2 @@
 # Android-ChatBaseSDK
-Android ChatBaseSDK Source and Forks
+Android ChatBase SDK - Open Source Social & Mobile Messenger
