@@ -12,3 +12,6 @@ This project uses the MIT license which is a commercially friendly open source l
 
 ## Wiki
 We are working in a lot more information on our [**Wiki**](https://github.com/ChatBaseSDK/iOS-ChatBaseSDK/wiki) so make sure to check it out! 
+
+## Module Dependencies
+- **App Intro:** [AppIntro](https://github.com/apl-devs/AppIntro)
